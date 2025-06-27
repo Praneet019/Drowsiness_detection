@@ -24,7 +24,7 @@ Make sure you have:
 
 - Age Model
   - Notebook: Age_Detection/age_model_training.ipynb
-  - Dataset: UTKFace aligned dataset, binned into 10-year intervals (0-20,21-40,41-60...81-100)
+  - Dataset: UTKFace aligned dataset, binned into 10-year intervals (0-20,21-40,41-60,61+)
   - Final model saved as final_age_model_4bins.h5
 
 ---
