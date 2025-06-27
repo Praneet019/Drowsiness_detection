@@ -1,0 +1,9 @@
+tensorflow==2.9.1
+keras==2.9.0
+opencv-python
+numpy
+matplotlib
+Pillow
+pyttsx3
+PyQt5
+imutils
