@@ -37,7 +37,7 @@ python Drowsiness_Detection/drowsiness_gui.py
 What it does:
 - Detects faces & eyes
 - Predicts if eyes are open or closed (drowsy)
-- Predicts age bin (e.g., "21-30")
+- Predicts age bin (e.g., "21-40")
 - Displays real-time video with detection overlays
 - Shows a pop-up alert if someone is sleeping
 
